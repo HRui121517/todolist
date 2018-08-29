@@ -12,5 +12,7 @@ One of the main reason for using a js framework is the difficulty of keeping the
 
 In React, the state of the todos are set initially and deleting items is non-destructive using 'filter' method (it returns a new array).
 
-To be continued
+On an unrelated note, the readme for create-react-app is so long. 
+
+(To be continued)
 
