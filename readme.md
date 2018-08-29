@@ -4,9 +4,9 @@ That being said, this is more of a repo for me to learn the difference in differ
 
 Originally coded in vanilla js, I will attempt to create the same project in frameworks I'm trying to learn.
 
-===
+---
 
-** React **
+**React**
 
 One of the main reason for using a js framework is the difficulty of keeping the UI in sync with the state.
 
