@@ -8,8 +8,7 @@ const Todos = ({ todos, deleteTodo }) => {
           <span
             onClick={() => {
               deleteTodo(todo.id);
-            }}
-          >
+            }}>
             {todo.content}
           </span>
         </div>
